@@ -1,1 +1,1 @@
-# cs_notes
+# CoderSchool Online Web Development
