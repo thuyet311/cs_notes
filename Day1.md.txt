@@ -1,0 +1,3 @@
+Today I got my hands dirty by setting up local environment. 
+Dunno why I couldn't find Shell Command in VS Code. Will look into this later.
+Now testing Git
